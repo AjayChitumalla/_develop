@@ -53,6 +53,499 @@
 
         }
     ]
-
+    {
+    "name":"Women Floral Print Cotton Blend A-line Kurta",
+    "category":"women",
+    "accessory":"Ethnic Wear",
+    "prize":"714",
+    "noOfDaysToDelivery":2,
+    "brand":"Libas",
+    "size":"",
+    "color":"yellow",
+    "image":"../src/assets/images/imgA001.png",
+    "comments":[
+    {            
+        "rating": 5,
+        "comment": "perfect fitting. value for money",
+        "author": "Mohammed PT",
+        "date": "2020-04-12T17:57:28.556094Z"
+    },
+    {            
+        "rating": 5,
+        "comment": "Super quality i like it",
+        "author": "Sreevani MP",
+        "date": "2020-04-14T17:57:28.556094Z"
+    }
+    ]
+  },
+  {
+    "name":"Solid Semi Stitched Lehenga, Choli and Dupatta Set",
+    "category":"women",
+    "accessory":"Ethnic Wear",
+    "prize":"1399",
+    "noOfDaysToDelivery":3,
+    "brand":"Divastri",
+    "size":"",
+    "color":"grey",
+    "image":"../src/assets/images/imgA002.png",
+    "comments":[
+    {            
+        "rating": 4,
+        "comment": "such a lovely dress.....",
+        "author": "Ankita Tarafder",
+        "date": "2020-04-16T17:57:28.556094Z"
+    },
+    {            
+        "rating": 5,
+        "comment": "Beatiful",
+        "author": "S Rani",
+        "date": "2020-04-17T17:57:28.556094Z"
+    }
+    ]
+  },
+  {
+    "name":"Casual Cuffed Sleeve Solid Women Maroon Top",
+    "category":"women",
+    "accessory":"Western Wear",
+    "prize":"584",
+    "noOfDaysToDelivery":4,
+    "brand":"Harpa",
+    "size":"",
+    "color":"maroon",
+    "image":"../src/assets/images/imgA003.png",
+    "comments":[
+    {            
+        "rating": 4,
+        "comment": "it's good n stylish...",
+        "author": "Bharti Singh",
+        "date": "2020-03-12T17:57:28.556094Z"
+    },
+    {            
+        "rating": 4,
+        "comment": "The quality is good and it fits on me perfectly ..love this dress",
+        "author": "Jayashree",
+        "date": "2020-04-17T11:57:28.556094Z"
+    }
+    ]
+  },
+  {
+    "name":"Casual Half Sleeve Floral Print Women Yellow Top",
+    "category":"women",
+    "accessory":"Western Wear",
+    "prize":"998",
+    "noOfDaysToDelivery":2,
+    "brand":"Provogue",
+    "size":"",
+    "color":"yellow",
+    "image":"../src/assets/images/imgA004.png",
+    "comments":[
+    {            
+        "rating": 5,
+        "comment": "Beautiful top..looks very good",
+        "author": "Bharti Singh",
+        "date": "2020-03-12T12:57:28.556094Z"
+    },
+    {            
+        "rating": 3,
+        "comment": "quality does not meet the price",
+        "author": "Devika",
+        "date": "2020-02-27T01:57:28.556094Z"
+    }
+    ]
+  },
+  {
+    "name":"Solid Women Jumpsuit",
+    "category":"women",
+    "accessory":"Fusion Wear",
+    "prize":"2797",
+    "noOfDaysToDelivery":5,
+    "brand":"Levi's",
+    "size":"",
+    "color":"black",
+    "image":"../src/assets/images/imgA005.png",
+    "comments":[
+    {            
+        "rating": 4,
+        "comment": "good",
+        "author": "Anwar Singh",
+        "date": "2020-01-12T12:57:28.556094Z"
+    }
+    ]
+  },
+  {
+    "name":"Women Kurta and Leggings Set Cotton Blend",
+    "category":"women",
+    "accessory":"Fusion Wear",
+    "prize":"1079",
+    "noOfDaysToDelivery":3,
+    "brand":"Aurelia",
+    "size":"",
+    "color":"pink",
+    "image":"../src/assets/images/imgA006.png",
+    "comments":[
+    {            
+        "rating": 5,
+        "comment": "it's very nice colour.. I like this dress very much.... material is also very good... go for it...",
+        "author": "Priti Roy",
+        "date": "2020-03-11T12:57:28.556094Z"
+    },
+    {            
+        "rating": 3,
+        "comment": "quality is not good",
+        "author": "Deepa",
+        "date": "2020-02-24T01:57:28.556094Z"
+    }
+  ]
+  },
+  {
+    "name":"Full Sleeve Solid Women Jacket",
+    "category":"women",
+    "accessory":"Winter & Seasonal Wear",
+    "prize":"899",
+    "noOfDaysToDelivery":2,
+    "brand":"Metronaut",
+    "size":"",
+    "color":"black",
+    "image":"../src/assets/images/imgA007.png",
+    "comments":[
+    {            
+        "rating": 3,
+        "comment": "Shoulders are too larger. Material is good.",
+        "author": "Twinkle T",
+        "date": "2020-03-14T12:57:28.556094Z"
+    },
+    {            
+        "rating": 4,
+        "comment": "Good product",
+        "author": "Isha",
+        "date": "2020-01-24T01:57:28.556094Z"
+    }
+  ]
+  },
+  {
+    "name":"Full Sleeve Washed Women Jacket",
+    "category":"women",
+    "accessory":"Winter & Seasonal Wear",
+    "prize":"2689",
+    "noOfDaysToDelivery":4,
+    "brand":"Tokyo Talkies",
+    "size":"",
+    "color":"blue",
+    "image":"../src/assets/images/imgA008.png",
+    "comments":[
+    {            
+        "rating": 4,
+        "comment": "loved it",
+        "author": "Halima",
+        "date": "2020-03-04T12:57:28.556094Z"
+    },
+    {            
+        "rating": 2,
+        "comment": "fitting not good meant for slim girls",
+        "author": "Nisha",
+        "date": "2019-12-24T01:57:28.556094Z"
+    }
+  ]
+  },
+  {
+    "name":"Solid Women Round Neck Black T-Shirt",
+    "category":"women",
+    "accessory":"Sports & Gym Wear",
+    "prize":"584",
+    "noOfDaysToDelivery":3,
+    "brand":"Adidas",
+    "size":"",
+    "color":"black",
+    "image":"../src/assets/images/imgA009.png",
+    "comments":[
+    {            
+        "rating":2,
+        "comment": "Cloth material is very cheap, very thin. Not good retuned it",
+        "author": "Priyanka",
+        "date": "2020-03-02T12:57:28.556094Z"
+    },
+    {            
+        "rating": 4,
+        "comment": "Nice one",
+        "author": "Roja",
+        "date": "2019-10-24T01:57:28.556094Z"
+    }
+  ]
+  },
+  {
+    "name":"Solid Women Black Track Pants",
+    "category":"women",
+    "accessory":"Sports & Gym Wear",
+    "prize":"749",
+    "noOfDaysToDelivery":2,
+    "brand":"Jockey",
+    "size":"",
+    "color":"black",
+    "image":"../src/assets/images/imgA010.png",
+    "comments":[
+    {            
+        "rating":2,
+        "comment": "cloth is so soft but it is too long to wear...",
+        "author": "Manisha",
+        "date": "2020-03-03T12:57:28.556094Z"
+    },
+    {            
+        "rating": 5,
+        "comment": "nice fabric .. soft",
+        "author": "Dipa",
+        "date": "2019-07-24T01:57:28.556094Z"
+    }
+  ]
+  },
+  {
+    "name":"Bvkworld Georgette Embroidered Suit Fabric",
+    "category":"women",
+    "accessory":"Fabrics",
+    "prize":"2080",
+    "noOfDaysToDelivery":3,
+    "brand":"Bvkworld",
+    "size":"",
+    "color":"green",
+    "image":"../src/assets/images/imgA011.png",
+    "comments":[
+    {            
+        "rating":4,
+        "comment": "comfortable worth it",
+        "author": "Dimpy",
+        "date": "2020-03-05T12:57:28.556094Z"
+    },
+    {            
+        "rating": 3,
+        "comment": "nice but I expect a better one.",
+        "author": "Sathi",
+        "date": "2019-07-23T01:57:28.556094Z"
+    }
+  ]
+  },
+  {
+    "name":"Classic Curves Cotton Solid, Embroidered, Printed Suit Fabric",
+    "category":"women",
+    "accessory":"Fabrics",
+    "prize":"4288",
+    "noOfDaysToDelivery":4,
+    "brand":"Classic Curves",
+    "size":"",
+    "color":"green",
+    "image":"../src/assets/images/imgA012.png",
+    "comments":[
+    {            
+        "rating":4,
+        "comment": "Superb fitting",
+        "author": "Anjali",
+        "date": "2020-03-15T12:57:28.556094Z"
+    },
+    {            
+        "rating": 5,
+        "comment": "colour not same.. but fabric is realy good",
+        "author": "Ektha",
+        "date": "2020-03-23T01:57:28.556094Z"
+    }
+  ]
+  },
+  {
+    "name":"Woven Arani Pattu Pure Silk Saree",
+    "category":"women",
+    "accessory":"Ethnic Wear",
+    "prize":"4298",
+    "noOfDaysToDelivery":3,
+    "brand":"The Chennai Silks",
+    "size":"",
+    "color":"Mustard",
+    "image":"../src/assets/images/imgA013.png",
+    "comments":[
+    {            
+        "rating":4,
+        "comment": "very nice. material is also very good",
+        "author": "Pranita",
+        "date": "2020-03-05T12:57:28.556094Z"
+    },
+    {            
+        "rating": 5,
+        "comment": "good product..!!!",
+        "author": "Swetha",
+        "date": "2020-03-13T01:57:28.556094Z"
+    }
+  ]
+  },
+  {
+    "name":"Floral Print Fashion Cotton Linen Blend Saree",
+    "category":"women",
+    "accessory":"Ethnic Wear",
+    "prize":"699",
+    "noOfDaysToDelivery":2,
+    "brand":"Ratnavati",
+    "size":"",
+    "color":"blue",
+    "image":"../src/assets/images/imgA014.png",
+    "comments":[
+    {            
+        "rating":4,
+        "comment": "it's looking awesome",
+        "author": "Preethi",
+        "date": "2020-03-25T12:57:28.556094Z"
+    },
+    {            
+        "rating": 2,
+        "comment": "very poor",
+        "author": "Sarita",
+        "date": "2020-03-23T01:57:28.556094Z"
+    }
+  ]
+  },
+  {
+    "name":"Solid Single Casual Women Full Sleeve Blazer",
+    "category":"women",
+    "accessory":"Formal Wear",
+    "prize":"1349",
+    "noOfDaysToDelivery":3,
+    "brand":"Van Heusen",
+    "size":"",
+    "color":"black",
+    "image":"../src/assets/images/imgA015.png",
+    "comments":[
+    {            
+        "rating":4,
+        "comment": "awesome product .perfect fit",
+        "author": "Manjulata",
+        "date": "2020-03-24T12:57:28.556094Z"
+    },
+    {            
+        "rating": 5,
+        "comment": " The packaging was good and product is best suited for professionals.",
+        "author": "Nirmalya",
+        "date": "2020-03-13T01:57:28.556094Z"
+    }
+  ]
+  },
+  {
+    "name":"Solid Women Full Sleeve Blazer ",
+    "category":"women",
+    "accessory":"Formal Wear",
+    "prize":"799",
+    "noOfDaysToDelivery":3,
+    "brand":"Broadstar",
+    "size":"",
+    "color":"black",
+    "image":"../src/assets/images/imgA016.png",
+    "comments":[
+    {            
+        "rating":4,
+        "comment": "Good quality, weight less,Super product .thank you",
+        "author": "Laxmi",
+        "date": "2020-03-04T12:57:28.556094Z"
+    },
+    {            
+        "rating": 5,
+        "comment": "Worth every penny!",
+        "author": "Barsha",
+        "date": "2020-04-13T01:57:28.556094Z"
+    }
+  ]
+  },
+  {
+    "name":"Full Sleeve Solid Women Jacket",
+    "category":"women",
+    "accessory":"Western Wear",
+    "prize":"2578",
+    "noOfDaysToDelivery":3,
+    "brand":"Park Avenue",
+    "size":"",
+    "color":"pink",
+    "image":"../src/assets/images/imgA017.png",
+    "comments":[
+    {            
+        "rating":4,
+        "comment": "for given price quality is really good",
+        "author": "Amrutha",
+        "date": "2020-03-05T12:57:28.556094Z"
+    },
+    {            
+        "rating": 5,
+        "comment": "nice product must buy!",
+        "author": "Varsha",
+        "date": "2020-05-13T01:57:28.556094Z"
+    }
+  ]
+  },
+  {
+    "name":"Skinny Fit Women Green Cotton Blend Trousers",
+    "category":"women",
+    "accessory":"Western Wear",
+    "prize":"1624",
+    "noOfDaysToDelivery":2,
+    "brand":"Levi's",
+    "size":"",
+    "color":"green",
+    "image":"../src/assets/images/imgA018.png",
+    "comments":[
+    {            
+        "rating":4,
+        "comment": "Good quality material.",
+        "author": "Ashritha",
+        "date": "2020-03-15T12:57:28.556094Z"
+    },
+    {            
+        "rating": 5,
+        "comment": "nice product must buy!",
+        "author": "Veena",
+        "date": "2020-06-13T01:57:28.556094Z"
+    }
+  ]
+  },
+  {
+    "name":"Women Skater Multicolor Dress",
+    "category":"women",
+    "accessory":"Formal Wear",
+    "prize":"299",
+    "noOfDaysToDelivery":2,
+    "brand":"B4U",
+    "size":"",
+    "color":"yellow",
+    "image":"../src/assets/images/imgA019.png",
+    "comments":[
+    {            
+        "rating":4,
+        "comment": "Awesome ",
+        "author": "Gayathri",
+        "date": "2020-03-25T12:57:28.556094Z"
+    },
+    {            
+        "rating": 5,
+        "comment": "nice product must buy!",
+        "author": "Vandana",
+        "date": "2020-06-23T01:57:28.556094Z"
+    }
+  ]
+  },
+  {
+    "name":"Regular Fit Women White Cotton Blend Trousers",
+    "category":"women",
+    "accessory":"Formal Wear",
+    "prize":"1098",
+    "noOfDaysToDelivery":2,
+    "brand":"Allen Solly",
+    "size":"",
+    "color":"white",
+    "image":"../src/assets/images/imgA020.png",
+    "comments":[
+    {            
+        "rating":4,
+        "comment": "superb product",
+        "author": "Manasa",
+        "date": "2020-03-15T12:57:28.556094Z"
+    },
+    {            
+        "rating": 5,
+        "comment": "nice product!",
+        "author": "Vani",
+        "date": "2020-07-23T01:57:28.556094Z"
+    }
+  ]
+  }
     
 }
